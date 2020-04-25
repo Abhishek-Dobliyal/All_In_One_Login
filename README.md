@@ -5,7 +5,7 @@ A small GUI to login at various platforms. Written in Python3
 
 # Dependencies
 
-1. selenium ( pip install selenium [ Windows Users ] / pip3 install selenium [ Mac/Linux Users ] )
+-> selenium ( pip install selenium [ Windows Users ] / pip3 install selenium [ Mac/Linux Users ] )
 
 # Note : 
 
