@@ -29,3 +29,5 @@ A small GUI to login at various platforms. Written in Python3
                For Safari, driver = webdriver.Safari()
 
 3. Keep main.py, icon (folder) in the same directory
+
+4. The Front End of the website(s) may change, so this tool may not work in the future.
