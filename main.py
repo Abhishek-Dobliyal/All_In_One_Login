@@ -214,6 +214,8 @@ root =  Tk()
 
 root.title("All-In-One-Login")
 root.geometry("780x700")
+root.minsize('780','700')
+root.maxsize('780','700')
 # root.configure(bg="#4566b5")
 
 ################ TOP WIDGETS
